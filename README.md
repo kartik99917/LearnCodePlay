@@ -1,4 +1,4 @@
-# Awesome Learn by playing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Learn by playing
 
 A collection of tech resources that allow you to learn new things by playing games
 
