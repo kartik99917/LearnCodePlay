@@ -15,8 +15,6 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 - [Grid Garder](https://cssgridgarden.com/) \[FREE\]: Write CSS code to grow your carrot garden while learning about CSS grid.
 - [Flexbox defense](http://www.flexboxdefense.com/) \[FREE\]: Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS (and flexbox)!
 - [Flexbox froggy](http://flexboxfroggy.com/) \[FREE\]: A game where you help Froggy and friends by writing CSS code (especially using CSS flexbox)!
-- [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) \[PAID  \]: A beautifully illustrated game where you have to survive the zombie apocalypse by mastering CSS flexbox skills!
-- [Grid Critters](https://gridcritters.com/) \[PAID \]: Your mission is to use your ship's powerful Grid tool to save alien critters from extinction and learn CSS grid in the process!
 - [Hex Invaders](http://www.hexinvaders.com/) \[FREE\]: Learn about HEX colors by shooting off aliens!
 - [CSS Speedrun](https://css-speedrun.netlify.app/) \[FREE\]: Test your skills with CSS selectors!
 - [Perfect Paragraph](https://betterwebtype.com/triangle/) \[FREE\]: A web typography learning game.
@@ -29,9 +27,7 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 - [WarriorJS](https://warriorjs.com/) \[FREE\]: Code your way through dungeons, prove your skills, and get hired.
 - [Untrusted](https://alexnisnevich.github.io/untrusted/) \[FREE\]: A text-based dungeon crawler where you progress with the aid of JavaScript.
 - [Code Monster](http://www.crunchzilla.com/code-monster) \[FREE\]: Learn the basic of JavaScript on the browser by helping a little monster.
-- [Service Workies](https://serviceworkies.com/) \[PAID \]: Help Kolohe survive and defeat dragons as you learn the basics of PWAs (Progressive Web Apps).
 - [JavaScript Fight Club](https://jsfight.club/) \[FREE\]: Program your army of knigts to win epic battles against other players.
-- [Screeps](https://screeps.com/) \[PAID \]: An open source MMO RTS sandbox game for programming enthusiasts, wherein the core mechanic is programming your units AI. You control your colony by writing JavaScript.
 - [yare.io](https://yare.io/) \[FREE\]: Real-Time Strategy game where you control your units by writing JavaScript code.
 
 ## HTML
@@ -67,23 +63,15 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 - [Hacker 101 Capture The Flag](https://ctf.hacker101.com/) \[FREE\]: Game designed to let you learn to hack in a safe, rewarding environment.
 - [Hack the box](https://www.hackthebox.eu/) \[FREE\]: A dynamically growing hacking community and take your cybersecurity skills to the next level through the most captivating, gamified, hands-on training experience!
 - [Embedded Security Capture The Flag](https://microcorruption.com/) \[FREE\]: You've been given access to a device that controls a lock. Your job: defeat the lock by exploiting bugs in the device's code.
-- [Cypher](https://store.steampowered.com/app/746710/Cypher/) \[PAID \]: Visit a cryptography museum and solve the cryptographic challenges.
 
 
 ## For kids
 
-- [Cubetto PRIMO](https://www.primotoys.com/) \[PAID 💸\]: Award winning physical game that help kids age 3+ to learn to code.
 - [Potato Pirates Coding Card Game](https://potatopirates.game/): Learn coding through card game
 
 
 ## Other
 
 - [NAND Game](https://nandgame.com/) \[FREE\]: You are going to build a computer starting from basic components. A great way to learn about computer architectures.
-- [Rogue bit](https://store.steampowered.com/app/949790/Rogue_Bit/) \[PAID \]: You play the game as a single bit of computer memory. You can invade other bytes around you and thus modify their values. A puzzle game that will make you truly understand and appreciate low level concepts like bitwise operations and ASCII tables.
-- [SHENZHEN I/O](https://store.steampowered.com/app/504210/SHENZHEN_IO/) \[PAID \]: A game where you build circuits using a variety of components from different manufacturers, like microcontrollers, memory, logic gates, and LCD screens.
 - [Box256](http://box-256.com/) \[FREE\]: a 8-bit fantasy computer, with 256 bytes of memory, 16 color 16x16 display. It is also a programming game, where the player tries to pass the graphics tests and optimize the code to perfection.
 - [Colobot](https://colobot.info/) \[FREE\]: a real-time strategy game, where you can program your units (bots) in a language called CBOT, which is similar to C++ and Java. Your mission is to find a new planet to live and survive. You can save humanity and get programming skills!
-- [MHRD](https://store.steampowered.com/app/576030/MHRD/) \[PAID 💸\]: A hardware design game, in which you design various hardware circuits in a hardware description language.
-- [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) \[PAID \]: uses the concept of a corporate office worker assigned to perform tasks that involve moving objects between an inbox, an outbox, and to and from storage areas as a metaphor for assembly language concepts.
-- [While True: learn()](https://store.steampowered.com/app/619150/while_True_learn/) \[PAID \]: Play and discover how Machine Learning works.
-- [Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/) \[PAID \]: learn about logic and cpu architecture with puzzles.
